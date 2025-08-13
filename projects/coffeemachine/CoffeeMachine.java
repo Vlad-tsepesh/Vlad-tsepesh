@@ -1,6 +1,5 @@
-package machine;
+package projects.coffeemachine;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class CoffeeMachine {
